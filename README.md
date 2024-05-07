@@ -2,7 +2,7 @@
 
 # Fibonacci Sequence Implementation (TypeScript)
 
-This project provides an implementation of the Fibonacci sequence function in TypeScript, along with comprehensive unit tests and an automated build process.
+This project provides an implementation of the Fibonacci sequence function in TypeScript, and unit tests.
 
 ## Features
 
