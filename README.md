@@ -26,7 +26,7 @@ This project provides an implementation of the Fibonacci sequence function in Ty
 
 2. Navigate to the project directory:
     ```
-    cd fibonacci-project
+    cd nelkinda-assignment
     ```
    
 3. Install dependencies:
